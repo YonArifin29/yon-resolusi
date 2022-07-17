@@ -2,4 +2,4 @@ KENINGINAN YON KEDEPAN
   1.Belajar Git&Hub
   2.belajar Node.js
   3.konsisten belajar bahasa inggris
-  4.meyelesaikan pelajaran matematika Integral
+  4.belajar PHP
