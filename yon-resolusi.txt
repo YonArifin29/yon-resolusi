@@ -4,5 +4,6 @@ KENINGINAN YON KEDEPAN
   3.konsisten belajar bahasa inggris
   4.belajar PHP
     ^frame work
+      .Laravel
   5.olahraga
   6.belajar css
